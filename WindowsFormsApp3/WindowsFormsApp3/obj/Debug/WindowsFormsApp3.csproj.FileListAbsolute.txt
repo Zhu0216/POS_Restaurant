@@ -1,0 +1,197 @@
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\rich\Desktop\2020POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS2\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\惠竺卡哇伊.accdb
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\User\Desktop\2020POS3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\惠竺卡哇伊.accdb
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS5\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\惠竺卡哇伊.accdb
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS5 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS6\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS7\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS7 - 複製\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.菜單.resources
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS9\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.後台.resources
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.更改密碼.resources
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.點餐.resources
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.後台登入.resources
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.後台.resources
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.更改密碼.resources
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.點餐.resources
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\lsat POS\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.系統登入.resources
+C:\Users\User\Desktop\2020POS10\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\立晉7.0.accdb
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\立晉7.0.accdb
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.系統登入.resources
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.後台.resources
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.更改密碼.resources
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.點餐.resources
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\Desktop\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\立晉7.0.accdb
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.系統登入.resources
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.後台.resources
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.更改密碼.resources
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.點餐.resources
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\OneDrive\文件\備審\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\立晉7.0.accdb
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.系統登入.resources
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.後台.resources
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.更改密碼.resources
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.點餐.resources
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\OneDrive\桌面\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.系統登入.resources
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.後台.resources
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.更改密碼.resources
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.點餐.resources
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\後台.resx
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\後台.cs
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\後台.Designer.cs
+C:\Users\User\OneDrive\文件\POS點餐系統\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\gin8.db
