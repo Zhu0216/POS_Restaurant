@@ -26,3 +26,8 @@
 ├── Data/               # 資料庫存取層 (SQLite Helper)
 ├── Restaurant.db       # SQLite 資料庫檔案
 └── README.md           # 專案技術說明
+```
+<img width="752" height="490" alt="image" src="https://github.com/user-attachments/assets/47ad4fc4-57d8-4197-903c-44da8954f496" />
+<img width="752" height="490" alt="image" src="https://github.com/user-attachments/assets/83b1f276-1220-4616-87bd-6c955636f27d" />
+<img width="752" height="490" alt="image" src="https://github.com/user-attachments/assets/fcb4abac-8a69-4d8b-bfbf-cdaf480ffbd8" />
+<img width="752" height="490" alt="image" src="https://github.com/user-attachments/assets/d38571f7-d821-493f-876b-35990984ce86" />
